@@ -36,7 +36,7 @@ const int WINDOW_WIDTH = 800;
 const int WINDOW_HEIGHT = 600;
 const char* WINDOW_TITLE = "ECG Monitor";
 const int MAX_DATA_POINTS = 500;
-const int COM_PORT = 11; // CHANGE THIS TO YOUR COM PORT
+const int COM_PORT = 7; // CHANGE THIS TO YOUR COM PORT
 const int BAUD_RATE = 115200;
 const float RECONNECT_INTERVAL = 10.0f;
 
